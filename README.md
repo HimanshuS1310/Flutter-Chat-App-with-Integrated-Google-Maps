@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+
+# Note:
+
+Please add your google_services.json file in  app folder.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
